@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "lab1"
+    ],
+    "java.project.referencedLibraries": [
+        "/home/axel/FRTN01/libs/regler.jar",
+        "/home/axel/FRTN01/libs/virtualsimulator.jar",
+        "/home/axel/FRTN01/libs/csrt.jar"
+    ]
+}
